@@ -8,15 +8,6 @@ Objetivo: Aprender Linux, seguridad básica y resolución de problemas.
 
 ---
 
-## 🚀 Progreso
-
-| Nivel | Estado |
-|------|--------|
-| Level 0 → 1 | ✅ Completado |
-| Level 1 → 2 | ⏳ Pendiente |
-
----
-
 ## 🧰 Herramientas utilizadas
 
 - SSH
